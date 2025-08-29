@@ -1,0 +1,1 @@
+const botaoPalavra = document.querySelector('#botao');
